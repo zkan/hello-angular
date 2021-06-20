@@ -1,2 +1,3 @@
-# hello-angular
-Hello, Angular! - https://angular.io/
+# Hello, Angular!
+
+URL: https://angular.io/
