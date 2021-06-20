@@ -1,0 +1,19 @@
+{
+  "name": "hello-angular",
+  "version": "1.0.0",
+  "description": "Hello, Angular! - https://angular.io/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zkan/hello-angular.git"
+  },
+  "author": "Kan Ouivirach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zkan/hello-angular/issues"
+  },
+  "homepage": "https://github.com/zkan/hello-angular#readme"
+}
